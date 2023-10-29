@@ -1,8 +1,8 @@
-- - -
+---
 title: Legacy Overview
 Parent: Home
 nav_order: 2
-- - -
+---
 
 # Membership Schema And Benefits
 For accomplishments by sprint, please refer to the Wiki.
