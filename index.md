@@ -2,6 +2,7 @@
 title: Home
 nav_order: 1
 description: "Membership Information"
+has_children: true 
 permalink: /
 ---
 
