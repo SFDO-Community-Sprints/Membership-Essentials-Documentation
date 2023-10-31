@@ -7,7 +7,7 @@ permalink: /
 
 # What is Membership Done Better?
 
-The Membership Done Better is a sustainable open source community events app that serves a broad variety of needs for EDUs and NGOs. The event solution has the flexibility needed to offer events of different types: paid, free, group, guests, and individual. The solution will include the full life cycle of the event: registration, receipting, confirmation, reporting and web faced exposure. This solution facilitates a Salesforce connected campus and will be compatible with Salesforce.org’s Data Architectures.
+Membership Done Better is a sustainable open source community membership app that serves a broad variety of needs for NGOs. The membership solution has the flexibility needed to offer memberships of different types: paid, free, group, guests, and individual. It will also offer adjacent donations.  The solution will include the full life cycle of the membership: registration, payment tracking, confirmation, renewals, reporting and web faced exposure. This solution will be compatible with Salesforce Data Architectures.
 
 ## Project information
 
