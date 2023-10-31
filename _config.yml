@@ -6,3 +6,9 @@ url: "https://sfdo-community-sprints.github.io" # the base hostname & protocol f
 
 # Information on theme https://just-the-docs.github.io/just-the-docs/
 remote_theme: just-the-docs/just-the-docs
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: light
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/images/Membership%20temp%20logo2.jpg"
