@@ -5,9 +5,9 @@ description: "Membership Essentials"
 permalink: /
 ---
 
-# What is Membership Done Better?
+# What is Membership Essentials?
 
-Membership Done Better is a sustainable open source community membership app that serves a broad variety of needs for NGOs. The membership solution has the flexibility needed to offer memberships of different types: paid, free, group, guests, and individual. It will also offer adjacent donations.  The solution will include the full life cycle of the membership: registration, payment tracking, confirmation, renewals, reporting and web faced exposure. This solution will be compatible with Salesforce Data Architectures.
+Membership Essentials is a sustainable open source community membership app that serves a broad variety of needs for NGOs. The membership solution has the flexibility needed to offer memberships of different types: paid, free, group, guests, and individual. It will also offer adjacent donations.  The solution includes the full life cycle of the membership: registration, payment tracking, confirmation, renewals, reporting and web faced exposure. This solution is compatible with Salesforce Data Architectures.
 
 ## Project information
 
