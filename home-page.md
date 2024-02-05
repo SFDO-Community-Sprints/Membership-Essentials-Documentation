@@ -1,7 +1,7 @@
 ---
 title: Home
 nav_order: 1
-description: "Membership Done Better"
+description: "Membership Essentials"
 permalink: /
 ---
 
