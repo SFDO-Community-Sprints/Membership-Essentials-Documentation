@@ -13,27 +13,7 @@ The solution will include the full life cycle of the membership: registration, p
 
 Membership Essentials extends standard Salesforce objects with additional custom objects for tracking memberships and individuals/organizations tied to the membership. By decoupling the membership from an Opportunity, organizations can better manage their members, memberships and membership programs.
 
-## Getting Started
 
-# Installing the Membership Essentials App 
-* Confirm Package Installation
-* Assign users to the Manage Memberships Permission Set
-* Assign users to the View Memberships Permission Set
-
-# Post Installation Considerations
-
-
-# Optional Post Installation Considerations
-
-
-*Note: In the Salesforce Winter '20 release Guest User access is severely restricted. There are new instructions in the "Scratch Org Installation"
-to address this new security.*
-* [Scratch Org Installation][1] & [Contributing to the Project][1]
-* [Installing (and Upgrading) in Production, Sandbox, or Dev org][2]
-* [Setting it up in Production, Sandbox, or Dev Orgs][3]
-* [CumulusCI Notes][4]
-* [GIT Notes][5]
-* [License][6]
 
 
 *Copyright 2022, Salesforce.org. All rights reserved..
