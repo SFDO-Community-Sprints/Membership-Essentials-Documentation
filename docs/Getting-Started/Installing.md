@@ -42,17 +42,6 @@ There are a few additional setup steps to consider once the Membership Essential
 2. Click on the Permission Set Label “View Memberships’
 3. Repeat steps 3-6 above for those users who need view-only access to Memberships
 
-## Optional Post Installation Considerations (Enabling Advanced Features)
-
-### Setup Organization-Wide Email Address
-An organization-wide email address is needed if your org uses automated email processes such as no-reply email addresses, auto-response, mass emails, workflow rules, process builder, Flow, Apex triggers etc. Verify if this is needed for your org.
-* Setup > Organization Wide Addresses > Click the “Add” button
-* For more info: Setup an Organization-Wide Email Address
-
-### Update Process Automation Settings
-If you’ve created/verified an organization-wide email address in the previous step, set the **“Automated Process User Email Address”** to reflect your organization-wide email address. 
-* Setup > Process Automation Settings
-* For more info: Emails from the [Automated Process User](https://help.salesforce.com/s/articleView?id=release-notes.rn_forcecom_flow_set_from_email_address_for_automated_process_user.htm&release=226&type=5)
 
 
 
