@@ -1,7 +1,7 @@
 ---
 title: Before Creating an Event
 parent: Getting Started
-nav_order: 3
+nav_order: 
 ---
 
 *This content is a work in progress. If you're interested in contributing to the Summit Events App and want to help provide support by reviewing or adding to this page, comment below and let us know!*
