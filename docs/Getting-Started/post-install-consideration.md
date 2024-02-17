@@ -16,26 +16,30 @@ nav_order: 3
   * Contact > Page Layouts > Contact Layout for Memberships
 
 For more info:
-[Customizing Page Layouts](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5)
-[Configure Page Layouts and Record Types](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-setup-and-customization/configure-page-layouts-and-record-types)
+* [Customizing Page Layouts](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5)
+* [Configure Page Layouts and Record Types](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-setup-and-customization/configure-page-layouts-and-record-types)
+
 
 ### Customize Picklist Values of Related Object
 * Setup > Object Manager > Select object
 * Customize values of the following picklist fields if desired/needed:
-  *Account*
-      1.  Membership Status (Global Picklist)
-      2.  Membership Type (Global Pickist)
-  *Contact*
-      1. Membership Status (Global Picklist)
-      2. Membership Type (Global Pickist)
-  *Membership* 
-      1. Origin
-      2. Status (Global Picklist)
-      3. Type
+
+*Account*
+1.  Membership Status (Global Picklist)
+2.  Membership Type (Global Pickist)
+
+*Contact*
+ 1. Membership Status (Global Picklist)
+ 2. Membership Type (Global Pickist)
+ 
+ *Membership* 
+ 1. Origin
+ 2. Status (Global Picklist)
+ 3. Type
 
 For more info:
-[Create a Global Picklist Value Set]9https://help.salesforce.com/s/articleView?language=en_US&id=sf.fields_creating_global_picklists.htm&type=5)
-[Manage Picklist Values](https://trailhead.salesforce.com/content/learn/modules/picklist_admin/picklist_admin_manage)
+* [Create a Global Picklist Value Set]9https://help.salesforce.com/s/articleView?language=en_US&id=sf.fields_creating_global_picklists.htm&type=5)
+* [Manage Picklist Values](https://trailhead.salesforce.com/content/learn/modules/picklist_admin/picklist_admin_manage)
 
 
 ## ADDITIONAL OPTIONAL Post Installation Considerations
