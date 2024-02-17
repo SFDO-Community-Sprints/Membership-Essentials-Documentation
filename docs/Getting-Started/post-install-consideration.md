@@ -24,25 +24,25 @@ For more info:
 * Setup > Object Manager > Select object
 * Customize values of the following picklist fields if desired/needed:
 
-*Account*
-1.  Membership Status (Global Picklist)
-2.  Membership Type (Global Pickist)
+ *Account*
+  1.  Membership Status (Global Picklist)
+  2.  Membership Type (Global Pickist)
 
-*Contact*
- 1. Membership Status (Global Picklist)
- 2. Membership Type (Global Pickist)
+ *Contact*
+  1. Membership Status (Global Picklist)
+  2. Membership Type (Global Pickist)
  
  *Membership* 
- 1. Origin
- 2. Status (Global Picklist)
- 3. Type
+  1. Origin
+  2. Status (Global Picklist)
+  3. Type
 
 For more info:
-* [Create a Global Picklist Value Set]9https://help.salesforce.com/s/articleView?language=en_US&id=sf.fields_creating_global_picklists.htm&type=5)
+* [Create a Global Picklist Value Set](https://help.salesforce.com/s/articleView?language=en_US&id=sf.fields_creating_global_picklists.htm&type=5)
 * [Manage Picklist Values](https://trailhead.salesforce.com/content/learn/modules/picklist_admin/picklist_admin_manage)
 
 
-## ADDITIONAL OPTIONAL Post Installation Considerations
+## Additional Post Installation Considerations
 
 ## Setup Organization-Wide Email Address
 An organization-wide email address is needed if your org uses automated email processes such as no-reply email addresses, auto-response, mass emails, workflow rules, process builder, Flow, Apex triggers etc. Verify if this is needed for your org.
