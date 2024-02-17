@@ -22,16 +22,16 @@ For more info:
 ### Customize Picklist Values of Related Object
 * Setup > Object Manager > Select object
 * Customize values of the following picklist fields if desired/needed:
-  1. Account
-      1.1  Membership Status (Global Picklist)
-      1.2  Membership Type (Global Pickist)
-  2. Contact
-      2.1 Membership Status (Global Picklist)
-      2.2 Membership Type (Global Pickist)
-  3. Membership 
-      3.1 Origin
-      3.2 Status (Global Picklist)
-      3.3 Type
+  *Account*
+      1.  Membership Status (Global Picklist)
+      2.  Membership Type (Global Pickist)
+  *Contact*
+      1. Membership Status (Global Picklist)
+      2. Membership Type (Global Pickist)
+  *Membership* 
+      1. Origin
+      2. Status (Global Picklist)
+      3. Type
 
 For more info:
 [Create a Global Picklist Value Set]9https://help.salesforce.com/s/articleView?language=en_US&id=sf.fields_creating_global_picklists.htm&type=5)
