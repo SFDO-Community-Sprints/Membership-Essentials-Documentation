@@ -8,9 +8,9 @@ nav_order: 3
 
 # *UNDER CONSTRUCTION*
 
-# Post Install Considerations
+## Post Install Considerations
 
-## Assign/Customize Page Layouts of Related Objects
+### Assign/Customize Page Layouts of Related Objects
 * Setup > Object Manager > Select Object
   * Account > Page Layouts > Account Layout for Memberships
   * Contact > Page Layouts > Contact Layout for Memberships
@@ -19,7 +19,7 @@ For more info:
 [Customizing Page Layouts](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5)
 [Configure Page Layouts and Record Types](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-setup-and-customization/configure-page-layouts-and-record-types)
 
-## Customize Picklist Values of Related Object
+### Customize Picklist Values of Related Object
 * Setup > Object Manager > Select object
 * Customize values of the following picklist fields if desired/needed:
   1. Account
@@ -38,7 +38,7 @@ For more info:
 [Manage Picklist Values](https://trailhead.salesforce.com/content/learn/modules/picklist_admin/picklist_admin_manage)
 
 
-# ADDITIONAL OPTIONAL Post Installation Considerations
+## ADDITIONAL OPTIONAL Post Installation Considerations
 
 ## Setup Organization-Wide Email Address
 An organization-wide email address is needed if your org uses automated email processes such as no-reply email addresses, auto-response, mass emails, workflow rules, process builder, Flow, Apex triggers etc. Verify if this is needed for your org.
