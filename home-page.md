@@ -13,7 +13,7 @@ The solution will include the full life cycle of the membership: registration, p
 
 Membership Essentials extends standard Salesforce objects with additional custom objects for tracking memberships and individuals/organizations tied to the membership. By decoupling the membership from an Opportunity, organizations can better manage their members, memberships and membership programs.
 
-![Core model](images/MembershipCoreModel.jpeg){:width="400"}
+![Core model](images/MembershipCoreModel.jpeg){:width="500"}
 
 ## Why Membership Essentials
 Managing memberships effectively in Salesforce has been a challenge since memberships may be managed differently across different types of organizations.
