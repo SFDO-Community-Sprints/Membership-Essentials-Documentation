@@ -48,6 +48,6 @@ There are a few additional setup steps to consider once the Membership Essential
 
 
 
-## You're all set! At this point, you should have a functioning Membership Essentials Package!
+## You're all set! You should now have w working version of Membership Essentials!
 
 
