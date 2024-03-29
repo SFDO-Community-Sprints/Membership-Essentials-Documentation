@@ -1,5 +1,5 @@
 ---
-title: Contributing to Memberships
+title: Contributing to Summit
 parent: Project Info
 has_children: true
 ---
