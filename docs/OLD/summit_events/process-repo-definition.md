@@ -2,6 +2,7 @@
 title: Process and Repo Definitions
 parent: Project Info
 has_children: true
+nav_exclude: true
 ---
 
 # Development Process
