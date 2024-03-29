@@ -1,7 +1,7 @@
 ---
 title: Project Info
-nav_order: 2
 has_children: true
+nav_exclude: true
 ---
 
 # Summit Events Project Information
