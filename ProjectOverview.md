@@ -1,7 +1,7 @@
 ---
 title: Legacy Overview
 Parent: Home
-nav_exclude: true
+nav_order: 1
 ---
 
 # Membership Schema And Benefits
