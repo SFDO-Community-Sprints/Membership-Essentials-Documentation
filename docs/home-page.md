@@ -1,6 +1,6 @@
 ---
 title: Home
-nav_order: 1
+nav_order: 2
 description: "Membership Essentials"
 permalink: /
 ---
