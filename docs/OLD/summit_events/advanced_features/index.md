@@ -1,5 +1,6 @@
 ---
 title: Advanced Features
+nav_exclude: true
 nav_order: 5
 has_children: true
 ---
