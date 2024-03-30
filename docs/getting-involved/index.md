@@ -8,4 +8,4 @@ has_children: true
 
 # Getting Involved
 
-We are glad that you are interested in Membership Essentials! Here are some resources for you to get involved!
+We are glad that you are interested in Membership Essentials! Here are some resources for you to get involved:
