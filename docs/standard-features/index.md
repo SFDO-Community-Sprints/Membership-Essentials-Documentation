@@ -1,7 +1,7 @@
 ---
 title: Standard Features
-nav_order: 4
-has_children: true
+parent: User Guide
+nav_order: 1
 ---
 
 # Standard Features
