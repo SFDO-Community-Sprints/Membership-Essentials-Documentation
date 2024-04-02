@@ -27,5 +27,5 @@ The goal of the Membership Essentials project is to build a common data model an
    * **A year from now, how will people describe your project?**   A foundational data structure that can be extended and modified to meet organizational needs.
 
 <footer>
-   <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/home-page.md{{ page.inputPath }}" style="font-size: smaller;">Edit this page on GitHub.</a>
+   <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/home-page.md" style="font-size: smaller;">Edit this page on GitHub.</a>
 </footer>
