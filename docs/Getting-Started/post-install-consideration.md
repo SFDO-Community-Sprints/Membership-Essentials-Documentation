@@ -13,13 +13,15 @@ nav_order: 3
 * Setup > Object Manager > Select Object
   * Account > Page Layouts > Account Layout for Memberships
   * Contact > Page Layouts > Contact Layout for Memberships
+  * Product > Page Payouts > Products Layout for Memberships
+  * Product > Compact Layouts > Compact Products Layout for Memberships
 
-For more info:
+For more information:
 * [Customizing Page Layouts](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5)
 * [Configure Page Layouts and Record Types](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-setup-and-customization/configure-page-layouts-and-record-types)
 
 
-### Customize Picklist Values of Related Object
+### Customize Picklist Values of Related Objects
 * Setup > Object Manager > Select object
 * Customize values of the following picklist fields if desired/needed:
 
@@ -34,11 +36,45 @@ For more info:
  *Membership* 
   1. Origin
   2. Status (Global Picklist)
-  3. Type
+  3. Type (Global Picklist)
 
-For more info:
+ *Membership Contact Role* 
+  1. Role
+  2. Status (Global Picklist)
+  3. Type (Global Picklist)
+
+ *Products*
+  1. Product Family
+  2. Renewal Option
+  3. Term Unit
+
+**NOTE:** A Product Type field for memberships has not been added at this time since products cannot be deleted, only archived. If a product with a membership type has been archived, it would prevent the org from being able to remove the managed package in the future. Alternatively, users can add Membership as a product type themselves if they would like a different page layout for membership type products.
+
+For more information:
 * [Create a Global Picklist Value Set](https://help.salesforce.com/s/articleView?language=en_US&id=sf.fields_creating_global_picklists.htm&type=5)
 * [Manage Picklist Values](https://trailhead.salesforce.com/content/learn/modules/picklist_admin/picklist_admin_manage)
+
+### Set Up Products For Memberships
+* To be used with the **Upgrade Path** and **Downgrade Path** fields
+* App Launcher > Products
+  * Sample Product Names:
+    * Individual Membership
+    * Household Membership
+    * Corporate Membership
+
+For more information:
+* [Create and Customize Products](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products))
+
+**NOTE:** You may add additional fields to the Product object if you need to track additional information about the product itself (e.g. max number of members or number of membership cards to print)
+
+
+### Set Up Price Books For Memberships
+* App Launcher > Price Books
+  * Add products to price books
+
+For more information:
+* [Create Custom Price Books](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products)](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books))
+* [Add Products to a Price Book](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products)](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books)(https://help.salesforce.com/s/articleView?id=sf.comm_products_pricebooks.htm&type=5))
 
 
 ## Additional Post Installation Considerations
