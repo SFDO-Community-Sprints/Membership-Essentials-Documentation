@@ -39,7 +39,7 @@ There are a few additional setup steps to consider once the Membership Essential
 
 ### Assign users to the Membership: View Permission Set
 1. Setup > Permission Set
-2. Click on the Permission Set Label “Membership: View’
+2. Click on the Permission Set Label **Membership: View**
 3. Repeat steps 3-6 above for those users who need view-only access to Memberships
 
 
