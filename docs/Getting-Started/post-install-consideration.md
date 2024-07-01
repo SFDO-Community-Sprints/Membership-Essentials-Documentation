@@ -26,27 +26,27 @@ For more information:
 * Customize values of the following picklist fields if desired/needed:
 
  *Account*
-  1.  Membership Status (Global Picklist)
-  2.  Membership Type (Global Pickist)
+  * Membership Status (Global Picklist)
+  * Membership Type (Global Pickist)
 
  *Contact*
-  1. Membership Status (Global Picklist)
-  2. Membership Type (Global Pickist)
+  * Membership Status (Global Picklist)
+  * Membership Type (Global Pickist)
  
  *Membership* 
-  1. Origin
-  2. Status (Global Picklist)
-  3. Type (Global Picklist)
+  * Origin
+  * Status (Global Picklist)
+  * Type (Global Picklist)
 
  *Membership Contact Role* 
-  1. Role
-  2. Status (Global Picklist)
-  3. Type (Global Picklist)
+  * Role
+  * Status (Global Picklist)
+  * Type (Global Picklist)
 
  *Products*
-  1. Product Family
-  2. Renewal Option
-  3. Term Unit
+  * Product Family
+  * Renewal Option
+  * Term Unit
 
 **NOTE:** A Product Type field for memberships has not been added at this time since products cannot be deleted, only archived. If a product with a membership type has been archived, it would prevent the org from being able to remove the managed package in the future. Alternatively, users can add Membership as a product type themselves if they would like a different page layout for membership type products.
 
