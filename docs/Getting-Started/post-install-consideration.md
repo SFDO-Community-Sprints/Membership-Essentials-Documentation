@@ -47,16 +47,14 @@ nav_order: 3
   * To be used with the **Upgrade Path** and **Downgrade Path** fields
   * App Launcher > Products
   * Create Membership Products (Examples: Individual Membership, Household Membership, Corporate Membership)
+  
+    **NOTE:** You may add additional fields to the Product object if you need to track additional information about the product itself (e.g. max number of members or number of membership cards to print)
 
-For more information:
-* [Create and Customize Products](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products))
-
-**NOTE:** You may add additional fields to the Product object if you need to track additional information about the product itself (e.g. max number of members or number of membership cards to print)
-
+    For more information on managing Products: [Create and Customize Products](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products))
 
 ### Set Up Price Books For Memberships
 * App Launcher > Price Books
-  * Add products to price books
+* Add products to price books
 
 For more information:
 * [Create Custom Price Books](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products)](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books))
