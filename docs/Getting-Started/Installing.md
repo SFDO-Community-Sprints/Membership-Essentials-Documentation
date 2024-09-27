@@ -36,7 +36,7 @@ There are a few additional setup steps to consider once the Membership Essential
 1. Setup > Permission Sets 
 2. Click on the Permission Set Label **Membership: Manage**
 3. Click the **Manage Assignments** button to view Current Assignments
-4. Click **'Add Assignments** to select users who will be managing memberships; 
+4. Click **Add Assignments** to select users who will be managing memberships; 
 5. Click **Next** and review **Expiration Options**
 6. Click the **Assign** button to add individual users to this permission set
 7. For more information: [Manage Permission Set Assignments](https://help.salesforce.com/s/articleView?id=sf.perm_sets_manage_assignments.htm&type=5)
