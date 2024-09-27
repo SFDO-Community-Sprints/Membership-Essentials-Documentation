@@ -57,8 +57,9 @@ nav_order: 3
   * Add products to price books
 
     For more information on Price Books:
-    * [Create Custom Price Books](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products)](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books))
-    * [Add Products to a Price Book](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products)](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books)(https://help.salesforce.com/s/articleView?id=sf.comm_products_pricebooks.htm&type=5))
+    * [Create Custom Price Books](https://trailhead.salesforce.com/content/learn/modules/sales_admin_products_quotes_contracts/sales_admin_products_quotes_contracts_unit_1)
+    * [Add Products to a Price Book](https://help.salesforce.com/s/articleView?id=sf.comm_products_pricebooks.htm&type=5)
+    
     
 -----     
 # Additional Post Installation Considerations*
