@@ -7,7 +7,7 @@ nav_order: 3
 # *Post Installation Considerations*
 
 
-### Assign/Customize Page Layouts of Related Objects
+### **Assign/Customize Page Layouts of Related Objects**
 * Setup > Object Manager > Select Object
 * Customize your page layouts as needed:
   * **Account** > Page Layouts > Account Layout for Memberships
