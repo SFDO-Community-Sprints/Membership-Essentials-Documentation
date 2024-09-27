@@ -46,12 +46,7 @@ There are a few additional setup steps to consider once the Membership Essential
 2. Click on the Permission Set Label **Membership: View**
 3. Repeat steps 3-6 above for those users who need view-only access to Memberships
 
-
-
-
-
-
-
+----
 ## You're all set! You should now have a working version of Membership Essentials!
 Check out Post-Installation Considerations for details on addition configuration you may want to make to ensure alignment with your organization.
 
