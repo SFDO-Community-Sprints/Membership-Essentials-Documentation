@@ -47,13 +47,11 @@ nav_order: 3
   * To be used with the **Upgrade Path** and **Downgrade Path** fields
   * App Launcher > Products
   * Create Membership Products (Examples: Individual Membership, Household Membership, Corporate Membership)
-  * Setup Opportunity Products for each Membership Product
   
     **NOTE:** You may add additional fields to the Product object if you need to track additional information about the product itself (e.g. max number of members or number of membership cards to print)
 
     For more information on managing Products and Opportunity Products:
     * [Create and Customize Products](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products))
-    * (insert link to Oppty Product help)
 
 ### *Set Up Price Books For Memberships*
   * App Launcher > Price Books
