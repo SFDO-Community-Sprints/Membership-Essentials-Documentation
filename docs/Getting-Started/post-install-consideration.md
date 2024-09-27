@@ -42,7 +42,7 @@ nav_order: 3
   * [Create a Global Picklist Value Set](https://help.salesforce.com/s/articleView?language=en_US&id=sf.fields_creating_global_picklists.htm&type=5)
   * [Manage Picklist Values](https://trailhead.salesforce.com/content/learn/modules/picklist_admin/picklist_admin_manage)
 
-## *Set Up Products For Memberships
+## Set Up Products For Memberships
   * To be used with the **Upgrade Path** and **Downgrade Path** fields
   * App Launcher > Products
   * Create Membership Products (Examples: Individual Membership, Household Membership, Corporate Membership)
@@ -52,7 +52,7 @@ nav_order: 3
     For more information on managing Products and Opportunity Products:
     * [Create and Customize Products](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products))
 
-## *Set Up Price Books For Memberships
+## Set Up Price Books For Memberships
   * App Launcher > Price Books
   * Add products to price books
 
@@ -61,14 +61,14 @@ nav_order: 3
     * [Add Products to a Price Book](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products)](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books)(https://help.salesforce.com/s/articleView?id=sf.comm_products_pricebooks.htm&type=5))
     
 -----     
-# *Additional Post Installation Considerations*
+# Additional Post Installation Considerations*
 
-### *Setup Organization-Wide Email Address*
+### Setup Organization-Wide Email Address*
 An organization-wide email address is needed if your org uses automated email processes such as no-reply email addresses, auto-response, mass emails, workflow rules, process builder, Flow, Apex triggers etc. Verify if this is needed for your org.
 * Setup > Organization Wide Addresses > Click the “Add” button
 * For more info: Setup an Organization-Wide Email Address
 
-### *Update Process Automation Settings*
+### Update Process Automation Settings*
 If you’ve created/verified an organization-wide email address in the previous step, set the **“Automated Process User Email Address”** to reflect your organization-wide email address. 
 * Setup > Process Automation Settings
 * For more info: Emails from the [Automated Process User](https://help.salesforce.com/s/articleView?id=release-notes.rn_forcecom_flow_set_from_email_address_for_automated_process_user.htm&release=226&type=5)
