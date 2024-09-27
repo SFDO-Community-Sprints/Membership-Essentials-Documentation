@@ -27,9 +27,9 @@ There are a few additional setup steps to consider once the Membership Essential
 **NOTE:** Developers should read the Developer Guidelines before beginning any work.
 
 ### Confirm Package Installation
-* Setup > Search for "Installed Packages".
-* Confirm the “Membership Essentials” app is one of the installed packages.
-* Add necessary profiles to the Membership App
+* Setup > Search for "Installed Packages"
+* Confirm the “Membership Essentials” app is one of the installed packages
+* Add necessary profiles to the Membership app
   * Setup > App Manager > Edit "Membership" > User Profiles
 
 ### Assign users to the Membership: Manage Permission Set
