@@ -15,7 +15,7 @@ nav_order: 3
   * **Product** > Compact Layouts > Compact Products Layout for Memberships
 
   For more information on customizing page layouts:
-  * [Customizing Page Layouts](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5)
+  * [Enhanced Page Layouts](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5)
   * [Configure Page Layouts and Record Types](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-setup-and-customization/configure-page-layouts-and-record-types)
   
   
@@ -50,8 +50,8 @@ nav_order: 3
     **NOTE:** You may add additional fields to the Product object if you need to track additional information about the product itself (e.g. max number of members or number of membership cards to print)
 
     For more information on managing Products and Opportunity Products:
-    * [Create and Customize Products](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products))
-
+    * [Create and Customize Products](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products)
+      
 ## Set Up Price Books For Memberships
   * App Launcher > Price Books
   * Add products to price books
