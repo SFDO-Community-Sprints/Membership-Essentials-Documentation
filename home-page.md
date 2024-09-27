@@ -7,7 +7,7 @@ permalink: /
 
 ## What is Membership Essentials?
 
-TEST Membership Essentials is a flexible, sustainable open source community membership app that serves a broad variety of needs for organizations offering memberships. Membership Essentials supports paid and free memberships, offered to individuals, groups, and guests alongside donations which often accompany membership purchases.
+Membership Essentials is a flexible, sustainable open source community membership app that serves a broad variety of needs for organizations offering memberships. Membership Essentials supports paid and free memberships, offered to individuals, groups, and guests alongside donations which often accompany membership purchases.
 
 The solution will include the full life cycle of the membership: registration, payment tracking, confirmation, renewals, reporting and web faced exposure. This solution is compatible with Salesforce Data Architectures including NPSP. (NPC compatibility testing is in process!)
 
