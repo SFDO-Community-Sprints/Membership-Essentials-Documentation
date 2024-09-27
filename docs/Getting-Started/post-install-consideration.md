@@ -4,10 +4,9 @@ parent: Getting Started
 nav_order: 3
 ---
 
-# *Post Installation Considerations*
+# Post Installation Considerations
 
-
-### *Assign/Customize Page Layouts of Related Objects*
+## Assign/Customize Page Layouts of Related Objects
 * Setup > Object Manager > Select Object
 * Customize your page layouts as needed:
   * **Account** > Page Layouts > Account Layout for Memberships
@@ -20,7 +19,7 @@ nav_order: 3
   * [Configure Page Layouts and Record Types](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-setup-and-customization/configure-page-layouts-and-record-types)
   
   
-### *Customize Picklist Values of Related Objects*
+## Customize Picklist Values of Related Objects
 * Setup > Object Manager > Select object
 * Customize values of the following picklist fields as needed to support your business processes:
   * **Account** > Membership Status (Global Picklist)
@@ -43,7 +42,7 @@ nav_order: 3
   * [Create a Global Picklist Value Set](https://help.salesforce.com/s/articleView?language=en_US&id=sf.fields_creating_global_picklists.htm&type=5)
   * [Manage Picklist Values](https://trailhead.salesforce.com/content/learn/modules/picklist_admin/picklist_admin_manage)
 
-### *Set Up Products For Memberships*
+## *Set Up Products For Memberships
   * To be used with the **Upgrade Path** and **Downgrade Path** fields
   * App Launcher > Products
   * Create Membership Products (Examples: Individual Membership, Household Membership, Corporate Membership)
@@ -53,7 +52,7 @@ nav_order: 3
     For more information on managing Products and Opportunity Products:
     * [Create and Customize Products](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products))
 
-### *Set Up Price Books For Memberships*
+## *Set Up Price Books For Memberships
   * App Launcher > Price Books
   * Add products to price books
 
