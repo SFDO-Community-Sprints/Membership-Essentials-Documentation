@@ -4,10 +4,6 @@ parent: Getting Started
 nav_order: 3
 ---
 
-## UNDER CONSTRUCTION
-*This content is a work in progress. If you're interested in contributing to the Membership Essentials App and want to help provide support by reviewing or adding to this page, comment below and let us know!*
-
-
 # *Post Installation Considerations*
 
 
