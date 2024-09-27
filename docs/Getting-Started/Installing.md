@@ -10,9 +10,11 @@ The Membership Essentials App (MEA) is a managed package and has been security r
 
 When installing the Membership Essentials app for your organization, it is recommended to follow best practices:
 * Create or refresh a sandbox from your Production org
-* Install the package in the sandbox (see Post Installation Considerations)
+* Install the package in the sandbox
+* Review Post Installation Considerations
 * Thoroughly test the existing processes and features of the package
 * Once tested, the package can be installed into the Production org
+* Replicate any post-install steps
 * Resource: [AppExchange Basics](https://trailhead.salesforce.com/content/learn/modules/appexchange_basics)
 
 
