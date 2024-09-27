@@ -49,7 +49,7 @@ There are a few additional setup steps to consider once the Membership Essential
 
 
 ## You're all set! You should now have a working version of Membership Essentials!
-
+Check out Post-Installation Considerations for details on addition configuration you may want to make to ensure alignment with your organization.
 
 <footer>
    <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/Getting-Started/Installing.md" style="font-size: smaller;">Edit this page on GitHub.</a>
