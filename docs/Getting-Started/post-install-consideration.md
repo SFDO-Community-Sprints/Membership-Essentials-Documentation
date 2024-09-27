@@ -56,7 +56,7 @@ nav_order: 3
   * App Launcher > Price Books
   * Add products to price books
 
-    For more information on Price Books:
+    For more information on Price Books: ( NEED UPDATED LINKS)
     * [Create Custom Price Books](https://trailhead.salesforce.com/content/learn/modules/sales_admin_products_quotes_contracts/sales_admin_products_quotes_contracts_unit_1)
     * [Add Products to a Price Book](https://help.salesforce.com/s/articleView?id=sf.comm_products_pricebooks.htm&type=5)
     
