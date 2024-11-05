@@ -18,7 +18,7 @@ When installing the Membership Essentials app for your organization, it is recom
 * Resource: [AppExchange Basics](https://trailhead.salesforce.com/content/learn/modules/appexchange_basics)
 
 
-[Install the latest managed package - UPDATE W/ MEA](https://install.salesforce.org/products/SummitEventsApp/latest){: .btn .btn-green }{:target="_blank"}
+[Install the latest managed package - (NEEDS LINK MEA PACKAGE)](https://install.salesforce.org/products/SummitEventsApp/latest){: .btn .btn-green }{:target="_blank"}
 
 ## Post Installation Instructions
 
