@@ -22,19 +22,21 @@ nav_order: 2
 ## Customize Picklist Values of Related Objects
 * Setup > Object Manager > Select object
 * Customize values of the following picklist fields as needed to support your business processes:
-  * **Account** > Membership Status (Global Picklist)
-  * **Account** > Membership Type (Global Pickist)
-  * **Contact** > Membership Status (Global Picklist)
-  * **Contact** > Membership Type (Global Pickist)
-  * **Membership** > Origin
-  * **Membership** > Status (Global Picklist)
-  * **Membership** > Type (Global Picklist)
-  * **Membership Contact Role** > Role
-  * **Membership Contact Role** > Status (Global Picklist)
-  * **Membership Contact Role** > Type (Global Picklist)
-  * **Products** > Product Family
-  * **Products** > Renewal Option
-  * **Products** > Term Unit
+  * **Accounts & Contacts**
+    * Membership Status (Global Picklist)
+    * Membership Type (Global Pickist)
+  * **Membership**
+    * Origin
+    * Status (Global Picklist)
+    * Type (Global Picklist)
+  * **Membership Contact Role**
+    * Role
+    * Status (Global Picklist)
+    * Type (Global Picklist)
+  * **Products**
+    * Product Family
+    * Renewal Option
+    * Term Unit
 
   **NOTE:** A Product Type field for memberships has not been added at this time since products cannot be deleted, only archived. If a product with a membership type has been archived, it would prevent the org from being able to remove the managed package in the future. Alternatively, users can add Membership as a product type themselves if they would like a different page layout for membership type products.
 
@@ -43,21 +45,23 @@ nav_order: 2
   * [Manage Picklist Values](https://trailhead.salesforce.com/content/learn/modules/picklist_admin/picklist_admin_manage)
 
 ## Set Up Products For Memberships
-  * To be used with the **Upgrade Path** and **Downgrade Path** fields
+To be used with the **Upgrade Path** and **Downgrade Path** fields:
   * App Launcher > Products
-  * Create Membership Products (Examples: Individual Membership, Household Membership, Corporate Membership)
+  * Create Membership Products. Examples include Individual Membership, Household Membership, and Corporate Membership
   
     **NOTE:** You may add additional fields to the Product object if you need to track additional information about the product itself (e.g. max number of members or number of membership cards to print)
 
     For more information on managing Products and Opportunity Products:
+    *[Set up Products]([https://help.salesforce.com/s/articleView?id=sf.products_setup.htm&type=5)
     * [Create and Customize Products](https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-customize-products)
       
 ## Set Up Price Books For Memberships
   * App Launcher > Price Books
   * Add products to price books
 
-    For more information on Price Books: ( NEED UPDATED LINKS)
-    * [Create Custom Price Books](https://trailhead.salesforce.com/content/learn/modules/sales_admin_products_quotes_contracts/sales_admin_products_quotes_contracts_unit_1)
+    For more information on Price Books:
+    * [Create Custom Price Books]([https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books)
+    * [Manage Price Book]([https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books)
     * [Add Products to a Price Book](https://help.salesforce.com/s/articleView?id=sf.comm_products_pricebooks.htm&type=5)
     
     
