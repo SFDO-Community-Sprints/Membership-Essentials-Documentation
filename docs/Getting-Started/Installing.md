@@ -20,7 +20,7 @@ When installing the Membership Essentials app for your organization, it is recom
 
 [Install the latest managed package - (NEEDS LINK MEA PACKAGE)](https://install.salesforce.org/products/SummitEventsApp/latest){: .btn .btn-green }{:target="_blank"}
 
-## Post Installation Instructions
+## Post-Installation Instructions
 
 There are a few additional setup steps to consider once the Membership Essentials app is installed.
 
