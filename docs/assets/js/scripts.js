@@ -1,3 +1,7 @@
+document.addEventListener('DOMContentLoaded', function (event) {
+  setModifiedDate();
+});
+
 function setModifiedDate() {
   fetch("https://api.jithub.com/repos/" + ownerName + "/" + repoName + "/commits?path=" + pagePath)
     .then((response) => {
