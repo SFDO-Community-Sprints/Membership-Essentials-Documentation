@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Getting Started
-nav_order: 3
+nav_order: 30
 has_children: true
 ---
 # Getting Started with the Membership Essentials App
