@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
 });
 
 function setModifiedDate() {
-  fetch("https://api.jithub.com/repos/" + ownerName + "/" + repoName + "/commits?path=" + pagePath)
+  fetch("https://api.github.com/repos/" + ownerName + "/" + repoName + "/commits?path=" + pagePath)
     .then((response) => {
       return response. json();
     })
