@@ -12,8 +12,8 @@ function setModifiedDate() {
       let modified = commits[0]['commit']['committer']['date'].slice(0, 10);
       let author = commits[0]['commit']['author']['name'];
       document.querySelectorAll(".last-modified").forEach(function (lastModifiedElement) {
-        lastModifiedElement.style.fontsize = "smaller';
-        lastModifiedElement.style.fontsize = "italic'; 
+<!--    lastModifiedElement.style.fontsize = "smaller'; -->
+<!--    lastModifiedElement.style.fontsize = "italic';  -->
         lastModifiedElement.textContent = "Last Modified: " + modified + ' by ' + author;
       });
     });
