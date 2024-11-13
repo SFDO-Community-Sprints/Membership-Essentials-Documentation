@@ -3,6 +3,8 @@ description: Documentation on how to install and use the Membership and Benefits
 timezone: America/Chicago
 baseurl: "/" #the subpath of your site, e.g. /blog
 url: "https://sfdo-community-sprints.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+doc_root: 'https://sfdo-community-sprints.github.io/Membership-Essentials-Documentation/docs'
+site_root: 'https://sfdo-community-sprints.github.io/Membership-Essentials-Documentation/'
 
 # Information on theme https://just-the-docs.github.io/just-the-docs/
 remote_theme: just-the-docs/just-the-docs
