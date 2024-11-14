@@ -13,7 +13,7 @@ When installing the Membership Essentials app for your organization, it is recom
 * Create or refresh a sandbox from your Production org
 * Install the package in the sandbox
 * Complete the Post Installation Considerations
-* Review the Additional Installation Considerations 
+* Review the Additional Considerations section
 * Thoroughly test the existing processes and features of the package
   
 * Once tested, the package can be installed into the Production org
@@ -51,11 +51,13 @@ Add necessary user profiles to the “Membership” app in App Manager
 2. Click on the Permission Set Label **Membership: View**
 3. Repeat steps 3-6 above for those users who need view-only access to Memberships
 
-### Customize page layouts
+### Customize Page Layouts
 Update the related lists on the following object to view Membership details:
   * Account - add Membership and Opportunity related lists
   * Contact - add Membership and Opportunity related lists
   * Products - add Membership to the related lists
+  * (Optional) Assign the Compact Product layout for Membership as the Primary Compact layout (if applicable)
+                Setup > Object Manager > Product > Compact Layout 
 
 ----
 ## You're all set! You should now have a working version of Membership Essentials!
