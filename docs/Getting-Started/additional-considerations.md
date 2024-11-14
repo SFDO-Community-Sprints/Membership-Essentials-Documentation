@@ -4,9 +4,9 @@ title: Additional Considerations
 parent: Getting Started
 nav_order: 12
 ---
-# THIS PAGE IS STILL UNDER CONSTRUCTION
+### THIS PAGE IS UNDER CONSTRUCTION
 
-When customizing the Membership Essentials app to meet your orgnziations' reuqirements, consider the following:
+When customizing the Membership Essentials app to meet your organziations' requirements, consider the following:
   * Membership Type and Status values
   * Use of Membership Contact Roles
   * Setting up Products and Pricebooks to track various membership products
