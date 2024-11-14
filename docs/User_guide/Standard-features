@@ -3,7 +3,7 @@ layout: default
 title: Standard Features
 nav_order: 22
 has_children: true
-parent: User_guide
+parent: User Guide
 ---
 
 # Standard Features
