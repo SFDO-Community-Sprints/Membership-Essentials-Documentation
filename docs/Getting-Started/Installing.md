@@ -53,10 +53,15 @@ Add necessary user profiles to the “Membership” app in App Manager
 
 ### Customize Page Layouts
 Update the related lists on the following object to view Membership details:
-  1. Account - add Membership and Opportunity related lists
-  2. Contact - add Membership and Opportunity related lists
-  3. Products - add Membership to the related lists
-  4. (Optional) Assign the Compact Product layout for Membership as the Primary Compact layout (if applicable)
+  1. Account page layout(s): add Membership and Opportunity to the related lists section
+  2. Contact page layout(s): add Membership and Opportunity to the related lists section
+  3. Products:
+     - Product page layout(s): add Membership to the related lists section
+     - Confirm Product SKU is on the Product Layout for Memberships  page layout
+        - If using a Product Record Type: assign the Product Layout for Memberships to the record type.
+        - If not, assign this page layout to the users who will be managing Membership products.
+
+  6. (Optional) Assign the Compact Product layout for Membership as the Primary Compact layout (if applicable)
                 Setup > Object Manager > Product > Compact Layout
 
   For more information on customizing page layouts:
