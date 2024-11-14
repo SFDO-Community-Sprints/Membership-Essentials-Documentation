@@ -2,7 +2,7 @@
 layout: default
 title: Post-Installation Steps
 parent: Getting Started
-nav_order: 40
+nav_order: 12
 ---
 
 # Post Installation Considerations
