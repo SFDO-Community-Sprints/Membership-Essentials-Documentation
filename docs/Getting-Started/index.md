@@ -4,7 +4,7 @@ title: Getting Started
 nav_order: 10
 has_children: true
 ---
-# Getting Started with the Membership Essentials App
+## Getting Started with the Membership Essentials App
 
 Thank you for choosing Membership Esssentials!  This documentation will help you get started using the product.
 
