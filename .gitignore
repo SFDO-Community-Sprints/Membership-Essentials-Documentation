@@ -34,3 +34,4 @@ out
 
 # CumulusCI
 /test_results.*
+/test_results
