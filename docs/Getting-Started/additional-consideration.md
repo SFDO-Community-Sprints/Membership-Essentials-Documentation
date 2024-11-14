@@ -1,25 +1,18 @@
 ---
 layout: default
-title: Post-Installation Steps
+title: Additional Considerations
 parent: Getting Started
 nav_order: 12
 ---
+#THIS PAGE IS UNDER CONSTRUCTION
 
-# Post Installation Considerations
+When customizing the Membership Essentials app to meet your orgnziations' reuqirements, consider the following:
+  * Membership Type and Status values
+  * Use of Membership Contact Roles
+  * Setting up Products and Pricebooks to track various membership products
+  * Use of a Membership Product Family on the Product object
+  * Membership notifications sent from Salesforce
 
-## Assign/Customize Page Layouts of Related Objects
-* Setup > Object Manager > Select Object
-* Customize your page layouts as needed:
-  * **Account** > Page Layouts > Account Layout for Memberships
-  * **Contact** > Page Layouts > Contact Layout for Memberships
-  * **Product** > Page Payouts > Products Layout for Memberships
-  * **Product** > Compact Layouts > Compact Products Layout for Memberships
-
-  For more information on customizing page layouts:
-  * [Enhanced Page Layouts](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5)
-  * [Configure Page Layouts and Record Types](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-setup-and-customization/configure-page-layouts-and-record-types)
-  
-  
 ## Customize Picklist Values of Related Objects
 * Setup > Object Manager > Select object
 * Customize values of the following picklist fields as needed to support your business processes:
@@ -65,7 +58,7 @@ To be used with the **Upgrade Path** and **Downgrade Path** fields:
     * [Manage Price Book]([https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books)
     * [Add Products to a Price Book](https://help.salesforce.com/s/articleView?id=sf.comm_products_pricebooks.htm&type=5)
     
-    
+**NOTE:** Developers should read the Developer Guidelines before beginning any work.    
 -----     
 # Additional Post Installation Considerations*
 
