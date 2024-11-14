@@ -1,6 +1,6 @@
 ---
 title: FAQ & Troubleshooting
-nav_order: 10
+nav_order: 80
 ---
 # Membership Essentials FAQs
 
