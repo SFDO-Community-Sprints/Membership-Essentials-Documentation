@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Objects and Fields
+parent: Technical Guide
 nav_order: 52
 ---
 # Objects and Fields used with the Membership Essentials App
