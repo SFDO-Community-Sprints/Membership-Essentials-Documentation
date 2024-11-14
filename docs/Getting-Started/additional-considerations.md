@@ -4,7 +4,7 @@ title: Additional Considerations
 parent: Getting Started
 nav_order: 12
 ---
-#THIS PAGE IS STILL UNDER CONSTRUCTION
+# THIS PAGE IS STILL UNDER CONSTRUCTION
 
 When customizing the Membership Essentials app to meet your orgnziations' reuqirements, consider the following:
   * Membership Type and Status values
