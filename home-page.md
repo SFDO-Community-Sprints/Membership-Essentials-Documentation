@@ -15,10 +15,10 @@ Membership Essentials extends standard Salesforce objects with additional custom
 
 ![Core model](images/MembershipCoreModel.jpeg){:width="500"}
 
-## Why Membership Essentials
-Managing memberships effectively in Salesforce has been a challenge since memberships may be managed differently across different types of organizations.
+## Why consider Membership Essentials?
+Managing memberships effectively in Salesforce has been a challenge since 'memberships' are often managed differently depending on the organization.
 
-The goal of the Membership Essentials project is to build a common data model and supporting automations for managing memberships in Salesforce. The package is intended to support everything from museums and alumni associations to sustaining donor programs and community gardens. The following questions were used as a guide for this project:
+The goal of the Membership Essentials project is to build a common data model and supporting automations for managing memberships in Salesforce. The package is intended to support organizations of all types including museums and alumni associations to sustaining donor programs and community gardens. The following questions were used as a guide for this project:
 
    * **What is the big problem that this project is trying to solve?**   The existing NPSP membership data model is very lightweight and doesn't meet many organizations’ needs. We seek to design a data model that is flexible and extensible for a wide range of membership and entitlement models including memberships and sponsorships.
 
