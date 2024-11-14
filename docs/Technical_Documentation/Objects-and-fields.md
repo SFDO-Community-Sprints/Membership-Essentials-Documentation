@@ -11,5 +11,5 @@ has_children: true
 
 
 <footer>
-   <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/Technical_documentation/Objects-and-fields.md" style="font-size: smaller;">Edit this page on GitHub.</a>
+   <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/Technical_Documentation/Objects-and-fields.md" style="font-size: smaller;">Edit this page on GitHub.</a>
 </footer>
