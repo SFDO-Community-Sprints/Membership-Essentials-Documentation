@@ -5,7 +5,7 @@ parent: Getting Started
 nav_order: 11
 ---
 
-# Installing the Membership Essentials App
+## Installing the Membership Essentials App
 
 The Membership Essentials App (MEA) is a managed package and has been security reviewed by Salesforce. Installation, along with many other great Salesforce.org Open Source Commons applications, is done through Salesforce.org's [MetaDeploy installer](https://github.com/SFDO-Tooling/MetaDeploy).
 
@@ -31,7 +31,7 @@ When installing the Membership Essentials app for your organization, it is recom
   3. Confirm the “Membership Essentials” app is one of the installed packages
 
 ### Assign Profiles to the Membership apps
-Add necessary user profiles to the “Membership” app in App Manager
+Add user profiles to the “Membership” app in App Manager:
   1. Setup > App Manager > find the "Membership" app
   2. "Edit" the Membership app
   3. Click the User Profile setting and add the applicable 'Available Profiles' to the 'Selected Profiles' column.
@@ -52,25 +52,25 @@ Add necessary user profiles to the “Membership” app in App Manager
   3. Repeat steps 3-6 above for those users who need view-only access to Memberships
 
 ### Customize Page Layouts
-Update the related lists on the following object to view Membership details:
-  1. Account page layout(s): add Membership and Opportunity to the related lists section
-  2. Contact page layout(s): add Membership and Opportunity to the related lists section
-  3. Products:
+Update the page layouts' related lists on the following objects to view Membership details:
+  1. **Account**: add Membership and Opportunity to the related lists section
+  2. **Contact:** add Membership and Opportunity to the related lists section
+  3. **Products:**
      - Product page layout(s): add Membership to the related lists section
-     - Confirm Product SKU is on the Product Layout for Memberships  page layout
-        - If using a Product Record Type: assign the Product Layout for Memberships to the record type.
-        - If not, assign this page layout to the users who will be managing Membership products.
+     - Confirm Product SKU is on the Product Layout for Memberships page layout
+        - *If using a Product Record Type: assign the page layout called Product Layout for Memberships to the record type.*
+        - *If not, assign this page layout to the users who will be managing Membership products.*
 
-  6. (Optional) Assign the Compact Product layout for Membership as the Primary Compact layout (if applicable)
-                Setup > Object Manager > Product > Compact Layout
+  6. ***(Optional)*** Assign the **Compact Product Layout for Membership** as the Primary Compact layout (if applicable)
+      - Setup > Object Manager > Product > Compact Layout
 
-  For more information on customizing page layouts:
+  *For more information on customizing page layouts:*
   * [Enhanced Page Layouts](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5)
   * [Configure Page Layouts and Record Types](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-setup-and-customization/configure-page-layouts-and-record-types)
 
 ----
-## You're all set! You should now have a working version of Membership Essentials!
-Check out the Additional Considerations sections for details on configuration you may want to incorporate into your Salesforce org.
+### *You're all set! You should now have a working version of Membership Essentials!*
+Check out the **Additional Considerations** section for details on configuration you may want to incorporate into your Salesforce org.
 
 <footer>
    <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/Getting-Started/Installing.md" style="font-size: smaller;">Edit this page on GitHub.</a>
