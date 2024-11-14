@@ -2,7 +2,7 @@
 title: User Guide
 nav_order: 20
 has_children: true
-layout:default
+layout: default
 ---
 # Membership Essentials User Guide
 
