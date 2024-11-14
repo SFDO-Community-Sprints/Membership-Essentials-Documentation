@@ -2,6 +2,8 @@
 title: Use Cases
 nav_order: 35
 has_children: true
+layout: default
+parent: user_guide
 ---
 
 # Membership Essentials Use Cases
