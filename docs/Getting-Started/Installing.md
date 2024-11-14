@@ -2,7 +2,7 @@
 layout: default
 title: Installing Membership Essentials
 parent: Getting Started
-nav_order: 20
+nav_order: 11
 ---
 
 # Installing the Membership Essentials App
