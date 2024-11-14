@@ -73,5 +73,5 @@ If you’ve created/verified an organization-wide email address in the previous 
 * For more info: Emails from the [Automated Process User](https://help.salesforce.com/s/articleView?id=release-notes.rn_forcecom_flow_set_from_email_address_for_automated_process_user.htm&release=226&type=5)
 
 <footer>
-  <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/Getting-Started/post-install-consideration.md" style="font-size: smaller;">Edit this page on GitHub.</a>
+  <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/Getting-Started/additional-considerations.md" style="font-size: smaller;">Edit this page on GitHub.</a>
 </footer>
