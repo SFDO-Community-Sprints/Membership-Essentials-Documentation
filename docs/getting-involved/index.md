@@ -1,6 +1,6 @@
 ---
 title: Getting Involved
-nav_order: 6
+nav_order: 70
 has_children: true
 ---
 
