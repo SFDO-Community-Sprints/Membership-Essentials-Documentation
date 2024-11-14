@@ -2,7 +2,6 @@
 layout: default
 title: Advanced Features
 nav_order: 24
-has_children: true
 parent: User Guide
 ---
 
