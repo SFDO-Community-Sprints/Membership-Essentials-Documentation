@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Standard Features
-parent: User Guide
-nav_order: 1
+nav_order: 30
+has_children: true
 ---
 
 # Standard Features
