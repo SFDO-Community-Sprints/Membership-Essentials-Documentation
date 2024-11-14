@@ -70,7 +70,7 @@ Update the related lists on the following object to view Membership details:
 
 ----
 ## You're all set! You should now have a working version of Membership Essentials!
-Check out Post-Installation Considerations for details on addition configuration you may want to incorporate into your Salesforce org.
+Check out the Additional Considerations sections for details on configuration you may want to incorporate into your Salesforce org.
 
 <footer>
    <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/Getting-Started/Installing.md" style="font-size: smaller;">Edit this page on GitHub.</a>
