@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Technical Guide
+title: Objects and Fields
 nav_order: 52
-has_children: true
 ---
 # Objects and Fields used with the Membership Essentials App
 
