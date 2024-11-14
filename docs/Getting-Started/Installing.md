@@ -18,8 +18,9 @@ When installing the Membership Essentials app for your organization, it is recom
   
 * Once tested, the package can be installed into the Production org
 * Replicate the applicable post-install steps
-* Resource: [AppExchange Basics](https://trailhead.salesforce.com/content/learn/modules/appexchange_basics)
-
+>
+>  *For more information about the App Exchange see* [AppExchange Basics](https://trailhead.salesforce.com/content/learn/modules/appexchange_basics)
+>
 
 [Install the latest managed package - (NEEDS LINK MEA PACKAGE)](https://install.salesforce.org/products/SummitEventsApp/latest){: .btn .btn-green }{:target="_blank"}
 
@@ -27,8 +28,7 @@ When installing the Membership Essentials app for your organization, it is recom
 
 ### Confirm Package Installation
   1. Setup > Search for "Installed Packages"
-  2. cccc
-  3. Confirm the “Membership Essentials” app is one of the installed packages
+  2. Confirm the “Membership Essentials” app is one of the installed packages
 
 ### Assign Profiles to the Membership apps
 Add user profiles to the “Membership” app in App Manager:
@@ -44,7 +44,10 @@ Add user profiles to the “Membership” app in App Manager:
   4. Click **Add Assignments** to select users who will be managing memberships; 
   5. Click **Next** and review **Expiration Options**
   6. Click the **Assign** button to add individual users to this permission set
-  7. For more information: [Manage Permission Set Assignments](https://help.salesforce.com/s/articleView?id=sf.perm_sets_manage_assignments.htm&type=5)
+
+>
+> *For more information:* [Manage Permission Set Assignments](https://help.salesforce.com/s/articleView?id=sf.perm_sets_manage_assignments.htm&type=5)
+>
 
 ### Assign users to the Membership: View Permission Set
   1. Setup > Permission Set
@@ -64,14 +67,18 @@ Update the page layouts' related lists on the following objects to view Membersh
   6. ***(Optional)*** Assign the **Compact Product Layout for Membership** as the Primary Compact layout (if applicable)
       - Setup > Object Manager > Product > Compact Layout
 
-  *For more information on customizing page layouts:*
-  * [Enhanced Page Layouts](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5)
-  * [Configure Page Layouts and Record Types](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-setup-and-customization/configure-page-layouts-and-record-types)
+  >
+  > *For more information on customizing page layouts:*
+  > - [Enhanced Page Layouts](https://help.salesforce.com/s/articleView?language=en_US&id=sf.customize_layoutcustomize_pd.htm&type=5)
+  > - [Configure Page Layouts and Record Types](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-setup-and-customization/configure-page-layouts-and-record-types)
+>
 
 ----
 ### *You're all set! You should now have a working version of Membership Essentials!*
+
 Check out the **Additional Considerations** section for details on configuration you may want to incorporate into your Salesforce org.
 
+ 
 <footer>
    <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/Getting-Started/Installing.md" style="font-size: smaller;">Edit this page on GitHub.</a>
 </footer>
