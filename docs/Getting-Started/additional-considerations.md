@@ -60,15 +60,16 @@ To be used with the **Upgrade Path** and **Downgrade Path** fields:
 >
 >    For more information on Price Books:
 >    * [Create Custom Price Books]([https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books)
->   * [Manage Price Book]([https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books)
+>    * [Manage Price Book]([https://trailhead.salesforce.com/content/learn/projects/manage-products-prices-quotes-orders/create-custom-price-books)
 >    * [Add Products to a Price Book](https://help.salesforce.com/s/articleView?id=sf.comm_products_pricebooks.htm&type=5)
 >
     
 ## Setup Organization-Wide Email Address*
 An organization-wide email address is needed if your org uses automated email processes such as no-reply email addresses, auto-response, mass emails, workflow rules, process builder, Flow, Apex triggers etc. Verify if this is needed for your org.
 * Setup > Organization Wide Addresses > Click the “Add” button
+
 >
-> * For more info: Setup an Organization-Wide Email Address
+>   * For more info: Setup an Organization-Wide Email Address
 >
 
 ## Update Process Automation Settings*
@@ -78,7 +79,7 @@ If you’ve created/verified an organization-wide email address in the previous 
 >
 > * For more info: Emails from the [Automated Process User](https://help.salesforce.com/s/articleView?id=release-notes.rn_forcecom_flow_set_from_email_address_for_automated_process_user.htm&release=226&type=5)
 >
->
+
 <footer>
   <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/Getting-Started/additional-considerations.md" style="font-size: smaller;">Edit this page on GitHub.</a>
 </footer>
