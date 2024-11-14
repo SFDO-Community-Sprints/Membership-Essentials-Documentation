@@ -9,5 +9,5 @@ has_children: true
 This page is a WORK In PROGRESS
 
 <footer>
-   <a href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits-Documentation/edit/main/docs/Features/index.md" style="font-size: smaller;">Edit this page on GitHub.</a>
+   <a href="https://github.com/SFDO-Community-Sprints/Membership-Essentials-Documentation/edit/main/docs/Features/index.md" style="font-size: smaller;">Edit this page on GitHub.</a>
 </footer>
