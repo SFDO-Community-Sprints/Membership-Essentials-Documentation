@@ -12,26 +12,30 @@ The Membership Essentials App (MEA) is a managed package and has been security r
 When installing the Membership Essentials app for your organization, it is recommended to follow best practices:
 * Create or refresh a sandbox from your Production org
 * Install the package in the sandbox
-* Review Post Installation Considerations
+* Complete the Post Installation Considerations
+* Review the Additional Installation Considerations 
 * Thoroughly test the existing processes and features of the package
+  
 * Once tested, the package can be installed into the Production org
-* Replicate any post-install steps
+* Replicate the applicable post-install steps
 * Resource: [AppExchange Basics](https://trailhead.salesforce.com/content/learn/modules/appexchange_basics)
 
 
 [Install the latest managed package - (NEEDS LINK MEA PACKAGE)](https://install.salesforce.org/products/SummitEventsApp/latest){: .btn .btn-green }{:target="_blank"}
 
 ## Post-Installation Instructions
-
 There are a few additional setup steps to consider once the Membership Essentials app is installed.
-
-**NOTE:** Developers should read the Developer Guidelines before beginning any work.
 
 ### Confirm Package Installation
 * Setup > Search for "Installed Packages"
 * Confirm the “Membership Essentials” app is one of the installed packages
-* Add necessary user profiles to the “Membership” app in App Manager
-  * Setup > App Manager > Edit "Membership" > User Profiles
+
+### Assign Profiles to the Membership apps
+Add necessary user profiles to the “Membership” app in App Manager
+  * Setup > App Manager > find the "Membership" app
+  * "Edit" the Membership app
+  * Click the User Profile setting and add the applicable 'Available Profiles' to the 'Selected Profiles' column.
+  * Click "Save"
 
 ### Assign users to the Membership: Manage Permission Set
 1. Setup > Permission Sets 
@@ -46,6 +50,12 @@ There are a few additional setup steps to consider once the Membership Essential
 1. Setup > Permission Set
 2. Click on the Permission Set Label **Membership: View**
 3. Repeat steps 3-6 above for those users who need view-only access to Memberships
+
+### Customize page layouts
+Update the related lists on the following object to view Membership details:
+  * Account - add Membership and Opportunity related lists
+  * Contact - add Membership and Opportunity related lists
+  * Products - add Membership to the related lists
 
 ----
 ## You're all set! You should now have a working version of Membership Essentials!
