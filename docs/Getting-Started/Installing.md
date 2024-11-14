@@ -25,37 +25,38 @@ When installing the Membership Essentials app for your organization, it is recom
 
 ## Post-Installation Instructions
 
-### 1. Confirm Package Installation
-  1a. Setup > Search for "Installed Packages"
-  1b. Confirm the “Membership Essentials” app is one of the installed packages
+### Confirm Package Installation
+  1. Setup > Search for "Installed Packages"
+  2. cccc
+  3. Confirm the “Membership Essentials” app is one of the installed packages
 
-### 2. Assign Profiles to the Membership apps
+### Assign Profiles to the Membership apps
 Add necessary user profiles to the “Membership” app in App Manager
-  2a. Setup > App Manager > find the "Membership" app
-  2b. "Edit" the Membership app
-  2c. Click the User Profile setting and add the applicable 'Available Profiles' to the 'Selected Profiles' column.
-  2d. Click "Save"
+  1. Setup > App Manager > find the "Membership" app
+  2. "Edit" the Membership app
+  3. Click the User Profile setting and add the applicable 'Available Profiles' to the 'Selected Profiles' column.
+  4. Click "Save"
 
-### 3. Assign users to the Membership: Manage Permission Set
-  3a. Setup > Permission Sets 
-  3b. Click on the Permission Set Label **Membership: Manage**
-  3c. Click the **Manage Assignments** button to view Current Assignments
-  3d. Click **Add Assignments** to select users who will be managing memberships; 
-  3e. Click **Next** and review **Expiration Options**
-  3f. Click the **Assign** button to add individual users to this permission set
-  3g. For more information: [Manage Permission Set Assignments](https://help.salesforce.com/s/articleView?id=sf.perm_sets_manage_assignments.htm&type=5)
+### Assign users to the Membership: Manage Permission Set
+  1. Setup > Permission Sets 
+  2. Click on the Permission Set Label **Membership: Manage**
+  3. Click the **Manage Assignments** button to view Current Assignments
+  4. Click **Add Assignments** to select users who will be managing memberships; 
+  5. Click **Next** and review **Expiration Options**
+  6. Click the **Assign** button to add individual users to this permission set
+  7. For more information: [Manage Permission Set Assignments](https://help.salesforce.com/s/articleView?id=sf.perm_sets_manage_assignments.htm&type=5)
 
-### 4. Assign users to the Membership: View Permission Set
-  4a. Setup > Permission Set
-  4b. Click on the Permission Set Label **Membership: View**
-  4c. Repeat steps 3-6 above for those users who need view-only access to Memberships
+### Assign users to the Membership: View Permission Set
+  1. Setup > Permission Set
+  2. Click on the Permission Set Label **Membership: View**
+  3. Repeat steps 3-6 above for those users who need view-only access to Memberships
 
-### 5. Customize Page Layouts
+### Customize Page Layouts
 Update the related lists on the following object to view Membership details:
-  5a. Account - add Membership and Opportunity related lists
-  5b. Contact - add Membership and Opportunity related lists
-  5c. Products - add Membership to the related lists
-  5d. (Optional) Assign the Compact Product layout for Membership as the Primary Compact layout (if applicable)
+  1. Account - add Membership and Opportunity related lists
+  2. Contact - add Membership and Opportunity related lists
+  3. Products - add Membership to the related lists
+  4. (Optional) Assign the Compact Product layout for Membership as the Primary Compact layout (if applicable)
                 Setup > Object Manager > Product > Compact Layout
 
   For more information on customizing page layouts:
