@@ -9,17 +9,17 @@ nav_order: 32
 
 *This content is a WORK IN PROGRESS.* 
 
-##Flexible Data Model
+## Flexible Data Model
 * indiv, HH, Org memberships
 
-##Personas
+## Personas
 *Managed with Permission Sets 
 
-##Platform Events
+## Platform Events
 * Inbound Platform events - no cost
 * max of 25,000 submissions/hour
 
-##Automation
+## Automation
 1. For new Membership Oppportunities, the package finds/creates membership record
 2. Memberships w/ multiple contacts, there is automation to create Membership Contact Roles for Primary Contact on Membership
 
