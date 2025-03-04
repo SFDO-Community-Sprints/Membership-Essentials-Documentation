@@ -9,8 +9,8 @@ nav_order: 11
 
 The Membership Essentials App (MEA) is a managed package and has been security reviewed by Salesforce. Installation, along with many other great Salesforce.org Open Source Commons applications, is done through Salesforce.org's [MetaDeploy installer](https://github.com/SFDO-Tooling/MetaDeploy).
 
-When installing the Membership Essentials app for your organization, it is recommended to follow best practices:
-* Create or refresh a sandbox from your Production org
+When installing the Membership Essentials app for your organization, it is recommended to follow these best practices:
+>> Create or refresh a sandbox from your Production org
 * Install the package in the sandbox
 * Complete the Post Installation Considerations
 * Review the Additional Considerations section
