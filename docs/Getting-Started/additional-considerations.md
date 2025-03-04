@@ -4,14 +4,14 @@ title: Additional Considerations
 parent: Getting Started
 nav_order: 12
 ---
-### THIS PAGE IS UNDER CONSTRUCTION
+> == THIS PAGE IS UNDER CONSTRUCTION ==
 
-When customizing the Membership Essentials app to meet your organziations' requirements, consider the following:
-  * Membership Type and Status values
-  * Use of Membership Contact Roles
-  * Setting up Products and Pricebooks to track various membership products
-  * Use of a Membership Product Family on the Product object
-  * Membership notifications sent from Salesforce
+When customizing the Membership Essentials app to meet your organziations' requirements, consider:
+  * Membership Types and Membership Statuses that will be needed
+  * Using Membership Contact Roles
+  * Using the Products and Pricebooks objects to track your various Memberships products
+  * Using a Membership Product Family on the Product object
+  * If Membership notifications will sent from Salesforce
 
 ## Customize Picklist Values of Related Objects
 * Setup > Object Manager > Select object
